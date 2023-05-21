@@ -1,8 +1,6 @@
 # INTRODUCTION
 
-The course ENPM809T-Autonomous Robotics at University of Maryland, College park provides a hands-on opportunity to build a robot and explore various core concepts in robotics, such as Perception, Planning, Controls, and Modeling. By applying these concepts to a real robot, our ultimate goal is to achieve autonomy. Throughout the course, we have focused on key areas including Perception, Sensor Integration and Calibration, Control, Localization, and Planning. These areas play a crucial role in
-developing the capabilities of our autonomous robot. A key objective of this course is to engage in an exciting final challenge centered around the construction zone. In this challenge, our robot is entrusted with the autonomous task of picking up objects and placing them accurately between
-a designated start and goal point.This simulates the practical application of the robot in a real construction zone, reducing the physical work required by human labor.
+The course ENPM809T-Autonomous Robotics at University of Maryland, College park provides a hands-on opportunity to build a robot and explore various core concepts in robotics, such as Perception, Planning, Controls, and Modeling. By applying these concepts to a real robot, our ultimate goal is to achieve autonomy. Throughout the course, we have focused on key areas including Perception, Sensor Integration and Calibration, Control, Localization, and Planning. These areas play a crucial role in developing the capabilities of our autonomous robot. A key objective of this course is to engage in an exciting final challenge centered around the construction zone. In this challenge, our robot is entrusted with the autonomous task of picking up objects and placing them accurately between a designated start and goal point.This simulates the practical application of the robot in a real construction zone, reducing the physical work required by human labor.
 
 ## Integration Details:
 
