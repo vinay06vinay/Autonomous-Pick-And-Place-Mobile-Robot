@@ -22,8 +22,7 @@ The key hardware components of the robot are:
 The autonomous mobile robot operates independently, performing tasks by integrating fundamental robotics principles such as perception, localization, control, and navigation. The following process flow diagram offers an overview of how the robot accomplishes pick-and-place tasks through the integration of both software and hardware components:
 
 <p align="center">
-  <img src="images/process_flow.png" alt="Autonomous Robot Process Flow" width="850" height="550"><br>
-  <em>Figure: Process Flow</em>
+  <img src="images/process_flow.png" alt="Autonomous Robot Process Flow" width="850" height="550">
 </p>
 
 ### Code : 
