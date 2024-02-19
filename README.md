@@ -26,9 +26,9 @@ The autonomous mobile robot operates independently, performing tasks by integrat
 </p>
 
 ### Code : 
-The code used for running the robot in final challenge arena is "autnomous_robot.py"
+The code used for running the robot in final challenge arena is "code/autnomous_robot.py"
 
-# Course Journey Video:
+## Course Journey Video:
 
 Below is the youtube link showing the course journey of building the autonomous robot from scratch with demonstration of different approaches and challenges faced.
 
