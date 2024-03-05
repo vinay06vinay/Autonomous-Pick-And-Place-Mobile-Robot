@@ -19,7 +19,7 @@ The key hardware components of the robot are:
 7. DC Geared Motors and wheels
 8. A chassis (Pirate) to hold the whole robot assebly
 
-The autonomous mobile robot operates independently, performing tasks by integrating fundamental robotics principles such as perception, localization, control, and navigation. The robot was successful in picking 8/9 RGB blocks in the final competetion. The following process flow diagram offers an overview of how the robot accomplishes pick-and-place tasks through the integration of both software and hardware components:
+The autonomous mobile robot operates independently, performing tasks by integrating fundamental robotics principles such as perception, localization, control, and navigation. The robot was successful in picking 8/9 RGB blocks in the final competition. The following process flow diagram offers an overview of how the robot accomplishes pick-and-place tasks through the integration of both software and hardware components:
 
 <p align="center">
   <img src="images/process_flow.png" alt="Autonomous Robot Process Flow" width="850" height="750">
