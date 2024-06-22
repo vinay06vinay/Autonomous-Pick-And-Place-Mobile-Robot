@@ -10,7 +10,7 @@ The course ENPM809T-Autonomous Robotics at University of Maryland, College park 
 
 ## Integration Details:
 The key hardware components of the robot are: 
-1. Rasberry Pi and Pi Camera
+1. Raspberry Pi and Pi Camera
 2. Ultrasonic Sensor
 3. Magnetic Encoders
 4. H-Bridge
