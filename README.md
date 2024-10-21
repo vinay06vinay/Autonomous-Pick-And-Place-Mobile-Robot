@@ -1,35 +1,42 @@
-# INTRODUCTION
+# ENPM809T - Autonomous Robotics
 
-The course ENPM809T-Autonomous Robotics at University of Maryland, College park provides a hands-on opportunity to build a robot and explore various core concepts in robotics, such as Perception, Planning, Controls, and Modeling. By applying these concepts to a real robot, our ultimate goal is to achieve autonomy. Throughout the course, we have focused on key areas including Perception, Sensor Integration and Calibration, Control, Localization, and Planning. These areas play a crucial role in developing the capabilities of our autonomous robot. A key objective of this course is to engage in an exciting final challenge centered around the construction zone. In this challenge, our robot is entrusted with the autonomous task of picking up objects and placing them accurately between a designated start and goal point.This simulates the practical application of the robot in a real construction zone, reducing the physical work required by human labor.
+## Introduction
+
+The **ENPM809T-Autonomous Robotics** course at the University of Maryland, College Park offers an enriching, hands-on experience in building a robot while exploring essential concepts in robotics, including **Perception**, **Planning**, **Controls**, and **Modeling**. Our ultimate goal is to achieve autonomy by applying these principles to a real robot.
+
+Throughout the course, we have focused on critical areas such as **Perception**, **Sensor Integration and Calibration**, **Control**, **Localization**, and **Planning**. Each of these components plays a vital role in enhancing the capabilities of our autonomous robot. A significant highlight of this course is an exciting final challenge centered around a construction zone scenario, where our robot autonomously picks up objects and accurately places them between a designated start and goal point, simulating real-world applications in construction.
 
 <p align="center">
   <img src="images/autonomous_robo.jpg" alt="Autonomous Robot" width="300" height="300"><br>
   <em>Figure: Autonomous Mobile Robot</em>
 </p>
 
+## Integration Details
 
-## Integration Details:
-The key hardware components of the robot are: 
-1. Raspberry Pi and Pi Camera
-2. Ultrasonic Sensor
-3. Magnetic Encoders
-4. H-Bridge
-5. IMU and Arduino Nano
-6. Gripper
-7. DC Geared Motors and wheels
-8. A chassis (Pirate) to hold the whole robot assebly
+The key hardware components of the robot include:
 
-The autonomous mobile robot operates independently, performing tasks by integrating fundamental robotics principles such as perception, localization, control, and navigation. The robot was successful in picking 8/9 RGB blocks in the final competition. The following process flow diagram offers an overview of how the robot accomplishes pick-and-place tasks through the integration of both software and hardware components:
+1. **Raspberry Pi** and **Pi Camera**
+2. **Ultrasonic Sensor**
+3. **Magnetic Encoders**
+4. **H-Bridge**
+5. **IMU** and **Arduino Nano**
+6. **Gripper**
+7. **DC Geared Motors** and wheels
+8. **Chassis (Pirate)** to hold the entire robot assembly
+
+The autonomous mobile robot operates independently, executing tasks by integrating fundamental robotics principles. In the final competition, the robot successfully picked up 8 out of 9 RGB blocks. The following process flow diagram illustrates how the robot accomplishes pick-and-place tasks through the seamless integration of both software and hardware components:
 
 <p align="center">
   <img src="images/process_flow.png" alt="Autonomous Robot Process Flow" width="850" height="750">
 </p>
 
-### Code : 
-The code used for running the robot in final challenge arena is "code/autnomous_robot.py"
+### Code
 
-## Course Journey Video:
+The code utilized to operate the robot in the final challenge arena is located in **code/autonomous_robot.py**.
 
-Below is the youtube link showing the course journey of building the autonomous robot from scratch with demonstration of different approaches and challenges faced.
+## Course Journey Video
 
-https://youtu.be/-1Ja9Sxqja4
+Check out the YouTube link showcasing the course journey of building the autonomous robot from scratch, including demonstrations of various approaches and the challenges encountered along the way:
+
+[Watch the Course Journey Video](https://youtu.be/-1Ja9Sxqja4)
+
